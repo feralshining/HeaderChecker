@@ -11,7 +11,7 @@
 
 ### 📌 참고사항
 
-- `File Carving 기법으로 살려낸 조각 파일들이나, FTK Imager 같은 포렌식 도구를 통해 확인할 수 있는 orphan files들의 확장자를 정확하게 분류해내기 위해서 급하게 만든 도구임. 깔끔하고 정확하게 모든 파일 시그니처를 분석해서 분류하고 싶으면, 코드를 정리해야함. pdf, hwp, xlsx, hwp 같은 document 파일을 대상으로 사용하기에는 무리가 없음.`
+- `File Carving 기법으로 살려낸 조각 파일들이나, FTK Imager 같은 포렌식 도구를 통해 확인할 수 있는 orphan files들의 확장자를 정확하게 분류해내기 위해서 급하게 만든 도구임. 깔끔하고 정확하게 모든 파일 시그니처를 분석해서 분류하고 싶으면, 코드를 정리해야함. pdf, hwp, xlsx같은 document 파일을 대상으로 사용하기에는 무리가 없음.`
 
 ### 📕 사용 라이브러리
 - **File Signature** : https://github.com/neilharvey/FileSignatures/ 
