@@ -1,0 +1,120 @@
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002810.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\2년 이용자 관계증진프로그램 1차 사전 개요.hwp
+Detected Type: Unknown
+Extension: HWP
+Status: Unknown
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_001227.hwp
+Detected Type: Corrupted
+Extension: HWP
+Status: Corrupted
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002058.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002075.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002084.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002183.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002228.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002232.hwp
+Detected Type: Corrupted
+Extension: HWP
+Status: Corrupted
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002252.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002276.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002290.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002299.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002301.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002506.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002510.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002522.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002525.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002743.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002746.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002748.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002749.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002781.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\한글 파일\Mismatch\Carved_002783.hwp
+Detected Type: HWP
+Extension: HWP
+Status: OK
+

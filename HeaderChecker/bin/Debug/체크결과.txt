@@ -1,0 +1,915 @@
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\00907.xls
+Detected Type: Corrupted
+Extension: XLS
+Status: Corrupted
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\16325.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\16131.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\16043.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\16002.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15926.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15864.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15863.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15779.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15677.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15674.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15636.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15574.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15466.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15434.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15425.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15375.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15364.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15346.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15234.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15213.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\14199.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\14172.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\9796.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\09796.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\7142.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\07142.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\6738.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\06738.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\6325.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\6131.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\6043.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\6002.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5926.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5864.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5863.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5779.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5677.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5674.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5636.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5574.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5466.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5434.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5425.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5375.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5364.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5346.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5234.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5213.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\4341.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\04341.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\4316.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\04316.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\4296.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\04296.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\4289.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\04289.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\4199.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\4172.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3884.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03884.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3857.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03857.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3810.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03810.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3806.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03806.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3672.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03672.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3651.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03651.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3562.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03562.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3534.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03534.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3517.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03517.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3502.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03502.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3490.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03490.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3471.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03471.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3461.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03461.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3458.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03458.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3432.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03432.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3419.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03419.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3386.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03386.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3365.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03365.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3326.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03326.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3308.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03308.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3283.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03283.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3275.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03275.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3257.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03257.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3247.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03247.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3246.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03246.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3236.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03236.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3219.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03219.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3182.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03182.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3173.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03173.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3123.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03123.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3097.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03097.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3091.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03091.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3085.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03085.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3082.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03082.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\3074.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\03074.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2986.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02986.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2973.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02973.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2942.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02942.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2884.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02884.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2834.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02834.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2803.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02803.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2604.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02604.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2559.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02559.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2257.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02257.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2192.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02192.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2187.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02187.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2131.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\02131.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\2058.xlsx
+Detected Type: XLSX
+Extension: XLSX
+Status: OK
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\1511.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\01511.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\1340.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\01340.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\1262.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\01262.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\1243.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\01243.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\1228.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\01228.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\0817.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\00817.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\0799.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\00799.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\0553.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\00553.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\0236.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\00236.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\0172.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\00172.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\15406.xls
+Detected Type: Corrupted
+Extension: XLS
+Status: Corrupted
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\6798.xls
+Detected Type: Corrupted
+Extension: XLS
+Status: Corrupted
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\06798.xls
+Detected Type: Corrupted
+Extension: XLS
+Status: Corrupted
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\5406.xls
+Detected Type: Corrupted
+Extension: XLS
+Status: Corrupted
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\0907.xls
+Detected Type: Corrupted
+Extension: XLS
+Status: Corrupted
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\Carved_002207.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\Carved_000272.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\Carved_001381.xls
+Detected Type: Corrupted
+Extension: XLS
+Status: Corrupted
+
+File: E:\활보 파일 (한창임)\복구된 조각 파일\엑셀 파일\Carved_001786.xlsx
+Detected Type: ZIP
+Extension: XLSX
+Status: Mismatch
+

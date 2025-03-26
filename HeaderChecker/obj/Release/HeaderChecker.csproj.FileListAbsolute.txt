@@ -1,0 +1,17 @@
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\bin\Release\HeaderChecker.exe
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\bin\Release\HeaderChecker.exe.config
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\bin\Release\OpenMcdf.xml
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\bin\Release\System.Buffers.xml
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\bin\Release\System.Memory.xml
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\bin\Release\System.Numerics.Vectors.xml
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\obj\Release\HeaderChecker.csprojAssemblyReference.cache
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\obj\Release\HeaderChecker.Form1.resources
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\obj\Release\HeaderChecker.Properties.Resources.resources
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\obj\Release\HeaderChecker.csproj.GenerateResource.cache
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\obj\Release\HeaderChecker.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\obj\Release\HeaderChecker.csproj.Fody.CopyLocal.cache
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\obj\Release\HeaderChecker.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\obj\Release\HeaderChecker.csproj.CopyComplete
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\obj\Release\HeaderChecker.exe
+C:\Users\root\source\repos\HeaderChecker\HeaderChecker\obj\Release\HeaderChecker.pdb
